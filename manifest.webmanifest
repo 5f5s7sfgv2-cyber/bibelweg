@@ -1,0 +1,19 @@
+{
+  "name": "Mein Bibelweg",
+  "short_name": "Bibelweg",
+  "description": "Dein persönlicher Bibel-Leseplan",
+  "lang": "de",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fbf9f6",
+  "theme_color": "#f9f7f4",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
